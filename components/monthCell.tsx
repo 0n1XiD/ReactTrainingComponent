@@ -1,5 +1,5 @@
-import React, {useState} from 'react';
-import {Grid, Paper, Typography, Icon, SvgIcon} from '@mui/material';
+import React from 'react';
+import {Paper, Typography} from '@mui/material';
 import {withStyles} from '@material-ui/styles';
 import {createStyles, WithStyles} from '@material-ui/core';
 import {StyleRules} from '@material-ui/styles/withStyles';
